@@ -1,0 +1,24 @@
+{
+  "name": "shishir-package",
+  "version": "1.0.0",
+  "description": "This is my first npm package",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shishir-Jakhmola/shishir-package-repo.git"
+  },
+  "keywords": [
+    "npm-package",
+    "first",
+    "shishir"
+  ],
+  "author": "Shishir <shishir.jakhmola@outlook.com> (https://github.com/Shishir-Jakhmola)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shishir-Jakhmola/shishir-package-repo/issues"
+  },
+  "homepage": "https://github.com/Shishir-Jakhmola/shishir-package-repo#readme"
+}
